@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNavSegueUnwindApp", "NavigationExample\CustomNavSegueUnwindApp.csproj", "{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSegueUnwindApp", "NonNavigationExample\CustomSegueUnwindApp.csproj", "{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Release|iPhone.Build.0 = Release|iPhone
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C42DFCE8-E0C4-40FF-A040-51AACD0B0094}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Release|iPhone.Build.0 = Release|iPhone
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DB3D3A4E-7928-4DB1-A3AD-C9A54EF11E26}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NavigationExample\CustomNavSegueUnwindApp.csproj
+	EndGlobalSection
+EndGlobal
